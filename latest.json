@@ -1,9 +1,9 @@
 {
-  "version": "1.0.0.rc7",
-  "released": "2026-07-15",
-  "url_mac_arm64": "https://github.com/sydriao/linhagem-releases/releases/download/v1.0.0.rc7/linhagem-mac-arm64.zip",
-  "url_mac_x64":   "https://github.com/sydriao/linhagem-releases/releases/download/v1.0.0.rc7/linhagem-mac-arm64.zip",
-  "url_win_x64":   "https://github.com/sydriao/linhagem-releases/releases/download/v1.0.0.rc7/Linhagem-1.0.0.rc7-win-x64.zip",
+  "version": "1.0.0.rc8",
+  "released": "2026-07-16",
+  "url_mac_arm64": "https://github.com/sydriao/linhagem-releases/releases/download/v1.0.0.rc8/linhagem-mac-arm64.zip",
+  "url_mac_x64":   "https://github.com/sydriao/linhagem-releases/releases/download/v1.0.0.rc8/linhagem-mac-arm64.zip",
+  "url_win_x64":   "https://github.com/sydriao/linhagem-releases/releases/download/v1.0.0.rc8/Linhagem-1.0.0.rc8-win-x64.zip",
   "changelog_url": "https://github.com/sydriao/linhagem-releases/releases",
   "min_supported": "1.0.0.rc1"
 }
